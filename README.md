@@ -43,7 +43,7 @@ Clone the repository:
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/BirdAnalysis.git
+git clone https://github.com/AmanAnand02/BirdAnalysis.git
 cd BirdAnalysis
 Create a virtual environment (optional but recommended):
 
